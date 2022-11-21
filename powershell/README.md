@@ -9,8 +9,8 @@ Membuat Folder dan File Function PowerShell
 4. Klik kanan pada file lalu pilih "Run As Administrator"
 
 Penggunaan :
-1. Buka Windows Powershell
-2. Jalankan command :\
+1. Buka Windows PowerShell (https://dnva.me/GhLOq)
+2. Jalankan command : (https://dnva.me/5UwvE)\
     whmcs-domain namadomain.com \
     whmcs-service namadomain.com \
     whmcs-username namauser
