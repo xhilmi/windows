@@ -10,7 +10,7 @@ Membuat Folder dan File Function PowerShell
 
 Penggunaan :
 1. Buka Windows PowerShell (https://dnva.me/GhLOq)
-2. Jalankan command : (https://dnva.me/5UwvE)\
+2. Jalankan command : (https://dnva.me/5UwvE) \
     whmcs-domain namadomain.com \
     whmcs-service namadomain.com \
     whmcs-username namauser
